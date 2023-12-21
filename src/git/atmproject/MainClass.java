@@ -36,6 +36,7 @@ public class MainClass {
     			   op.depositAmount(deposit);
     			   break;
     		   case 4 : 
+    			   op.viewMiniStatement();
     			   break;
     		   case 5 :
     			   System.out.print("Collect your Card\nThank you for using our ATM");
